@@ -1,7 +1,7 @@
-# Name:
-# Date:
+# Names: Evan Butler and David Eliason
+# Date: 4/9/2015
 
-Description:
+Description: Scrabble Scorekeeper
 
 # SetUp and Use
 In order to use this program you will need a browser...NOT IE!
