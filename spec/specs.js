@@ -7,7 +7,7 @@ describe("scrabbleScore", function() {
         expect(scrabbleScore("b")).to.equal(3);
     });
 
-    // it("returns score of 2 if user enters AE", function() {
-    //     expect(scrabbleScore("AE")).to.equal(2);
-    // });
+    it("returns score of 2 if user enters AE", function() {
+        expect(scrabbleScore("AE")).to.equal(2);
+    });
 });
