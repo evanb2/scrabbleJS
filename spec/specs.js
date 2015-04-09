@@ -3,8 +3,8 @@ describe("scrabbleScore", function() {
     //     expect(scrabbleScore("A")).to.equal(1);
     // });
 
-    it("returns score of 3 if user enters B", function() {
-        expect(scrabbleScore("B")).to.equal(3);
+    it("returns score of 3 if user enters b", function() {
+        expect(scrabbleScore("b")).to.equal(3);
     });
 
     // it("returns score of 2 if user enters AE", function() {
