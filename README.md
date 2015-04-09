@@ -7,9 +7,12 @@ Description: Scrabble Scorekeeper
 In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
+1. open Terminal, type git clone https://github.com/evanb2/scrabbleJS.git
+2. open scrabbleJS folder
+3. open scrabble.html file in your browser
+4. type in any word and click the button to calculate your scrabble score!
 
-# Copyright (c) 2015 (Name)
+# Copyright (c) 2015 (Evan Butler and David Eliason)
 
 # The MIT License (MIT)
 
