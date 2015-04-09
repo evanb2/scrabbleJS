@@ -21,5 +21,15 @@ var scrabbleScore = function(word){
     word_split.forEach( function(letter) {
         sum += alphabet[letter];
     });
+
     return sum;
 };
+
+$(document).ready(function() {
+    $("form#input").submit(function(event) {
+        var word = $("input#word").val();
+        var result = scrabbleScore(word);
+        $(".score").text(result);
+        event.preventDefault();
+    });
+});
