@@ -1,16 +1,19 @@
 # Names: Evan Butler and David Eliason
 # Date: 4/9/2015
 
-Description: Scrabble Scorekeeper
+Description: Scrabble Scorekeeper. User inputs their word and the program returns the Scrabble point value of that word based on the formula in the scripts file.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1. open Terminal, type git clone https://github.com/evanb2/scrabbleJS.git
-2. open scrabbleJS folder
-3. open scrabble.html file in your browser
-4. type in any word and click the button to calculate your scrabble score!
+
+1. Open Terminal type: 'git clone https://github.com/evanb2/scrabbleJS.git'
+
+2. Open scrabbleJS folder.
+
+3. Open scrabble.html file in your browser.
+
+4. Type in any word and click the button to calculate your scrabble score!
 
 # Copyright (c) 2015 (Evan Butler and David Eliason)
 
